@@ -1,0 +1,9 @@
+Building CHAMPION
+
+See doc/readme-qt.rst for instructions on building CHAMPION QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of CHAMPION.
+
+See doc/build-*.txt for instructions on building championd,
+the intended-for-services, no-graphical-interface, reference
+implementation of CHAMPION.
